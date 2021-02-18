@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Currently a Computer Engineering undergraduate at City College CUNY.
+I have a lot of interests.
+
 <!--
 **nimajneben/nimajneben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
